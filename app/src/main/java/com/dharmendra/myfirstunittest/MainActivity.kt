@@ -7,8 +7,9 @@ class MainActivity:AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        /*
-        * Main did some changes*/
+        /**
+         * @need to integration testing as well as unit testing
+         * */
     }
 
 }
